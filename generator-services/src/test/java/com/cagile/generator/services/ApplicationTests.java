@@ -1,4 +1,4 @@
-package com.cagile;
+package com.cagile.generator.services;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
